@@ -23,4 +23,4 @@ El proyecto está enfocado en la cosntrucción de la interfaz de Google,, tomand
 Aprender a utilizar las etiquetas de HTML5 y las propiedades de CSS3, así como identificar componentes base de un sitio web, para analizarlas y replicarlas.
 
 ## 🖤Link al Demo! 
-Aquí puedes visualizar mi proyecto terminado: 
+Aquí puedes visualizar mi proyecto terminado: https://diana-m-alvarado.github.io/Google-Clone/
