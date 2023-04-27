@@ -1,2 +1,8 @@
-#  Clonación de la interfaz de Google 
-#######  ✨ GOOGLE CLONE USING HTML AND CSS - IN CAMPBOOT BY Technolochicas
+#  Clonación de la interfaz de Googl
+#####  ✨ Creado con HTML5 y CSS en el Bootcamp de Technolochicas ✨
+
+##  ÍNDICE
+* [iNTRO] () 
+* [¿Que  construí?] ()
+* [Objetivo del proyecto] ()
+* 
